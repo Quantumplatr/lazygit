@@ -1,0 +1,8 @@
+gui:
+  authorColors:
+    "Ethan Christensen": "#65a5bf"
+  branchColorPatterns:
+    "ethan/.+": "green"
+    "staging": "#dda0dd" # plum
+    "main": "#bb3385" # medium red violet
+  nerdFontsVersion: "3"
